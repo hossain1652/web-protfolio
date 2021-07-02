@@ -21,7 +21,7 @@ h2{
     width: 100%;
 }
 .top-banner{
-    background-image: url(web-protfolio/img/top-banner.png);
+    background-image: url(img/top-banner.png);
     background-repeat: no-repeat;
 }
 section{
@@ -39,7 +39,7 @@ section{
 
 }
 .dream-area{
-    background-image: url(web-protfolio/img/dream-bg.png);
+    background-image: url(img/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
 }
@@ -50,7 +50,7 @@ section{
     background-color: white;
 }
 .experience-area{
-    background-image: url(web-protfolio/img/exp-bg.png);
+    background-image: url(img/exp-bg.png);
     background-repeat: no-repeat;
     background-position: left;
 }
@@ -58,11 +58,13 @@ section{
     border-left: 7px solid;
     border-image:linear-gradient(180deg, lightsalmon,tomato);
     border-image-slice: 1;
+   
 }
 #baby-web{
     border-left: 7px solid;
     border-image:linear-gradient(180deg, blue,cyan);
     border-image-slice: 1;
+    
 }
 footer p{
     text-align: center;
